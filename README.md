@@ -34,10 +34,6 @@ package.json: Project metadata and scripts
 
 Installation Instructions:
 
-Clone the repository: git clone https://github.com/your-username/project-bolt.git
-
-Navigate to the project directory: cd project-bolt
-
 Install dependencies using: npm install
 
 Start the development server using: npm run dev
